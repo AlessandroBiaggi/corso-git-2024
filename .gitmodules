@@ -1,3 +1,4 @@
 [submodule "vendor/rosidl_typesupport_protobuf.git"]
 	path = vendor/rosidl_typesupport_protobuf.git
 	url = git@github.com:eclipse-ecal/rosidl_typesupport_protobuf.git
+	tag = v1.0.0
